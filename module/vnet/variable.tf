@@ -1,0 +1,1 @@
+variable "lang_vnet" {}
